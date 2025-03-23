@@ -5096,12 +5096,12 @@
         "confidence": 100
     },
     {
-        "post_id": 1231943,
-        "post_name": "???? ???????",
+        "post_id": 204333,
+        "post_name": "Majid Almohandis ",
         "votes": 3,
         "vote_type": "ISTJ",
-        "total_votes": 36,
-        "confidence": 8.33
+        "total_votes": 24,
+        "confidence": 12.5
     },
     {
         "post_id": 676572,
@@ -5128,14 +5128,6 @@
         "confidence": 50
     },
     {
-        "post_id": 204333,
-        "post_name": "Majid Almohandis ",
-        "votes": 3,
-        "vote_type": "ISTJ",
-        "total_votes": 24,
-        "confidence": 12.5
-    },
-    {
         "post_id": 122458,
         "post_name": "YouTube Star    Piper Rockelle",
         "votes": 3,
@@ -5144,40 +5136,24 @@
         "confidence": 100
     },
     {
-        "post_id": 106311,
-        "post_name": "No Min woo",
-        "votes": 2,
+        "post_id": 1231943,
+        "post_name": "???? ???????",
+        "votes": 3,
         "vote_type": "ISTJ",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 167051,
-        "post_name": "Claude Bernard   Physiologist",
-        "votes": 2,
-        "vote_type": "ISTJ",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 172334,
-        "post_name": "Elizabeth Short",
-        "votes": 2,
-        "vote_type": "ISTJ",
-        "total_votes": 12,
-        "confidence": 16.67
-    },
-    {
-        "post_id": 90688,
-        "post_name": "Ruskin Bond",
-        "votes": 2,
-        "vote_type": "ISTJ",
-        "total_votes": 4,
-        "confidence": 50
+        "total_votes": 36,
+        "confidence": 8.33
     },
     {
         "post_id": 180760,
         "post_name": "Julia Butters ",
+        "votes": 2,
+        "vote_type": "ISTJ",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 106311,
+        "post_name": "No Min woo",
         "votes": 2,
         "vote_type": "ISTJ",
         "total_votes": 2,
@@ -5192,12 +5168,36 @@
         "confidence": 100
     },
     {
-        "post_id": 73300,
-        "post_name": "Carlos Sainz Jr.",
+        "post_id": 1232199,
+        "post_name": "cassie carballo",
         "votes": 2,
         "vote_type": "ISTJ",
         "total_votes": 2,
         "confidence": 100
+    },
+    {
+        "post_id": 167051,
+        "post_name": "Claude Bernard   Physiologist",
+        "votes": 2,
+        "vote_type": "ISTJ",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 90688,
+        "post_name": "Ruskin Bond",
+        "votes": 2,
+        "vote_type": "ISTJ",
+        "total_votes": 4,
+        "confidence": 50
+    },
+    {
+        "post_id": 172334,
+        "post_name": "Elizabeth Short",
+        "votes": 2,
+        "vote_type": "ISTJ",
+        "total_votes": 12,
+        "confidence": 16.67
     },
     {
         "post_id": 222123,
@@ -5208,20 +5208,28 @@
         "confidence": 66.67
     },
     {
-        "post_id": 1232199,
-        "post_name": "cassie carballo",
+        "post_id": 73300,
+        "post_name": "Carlos Sainz Jr.",
         "votes": 2,
         "vote_type": "ISTJ",
         "total_votes": 2,
         "confidence": 100
     },
     {
-        "post_id": 254342,
-        "post_name": "Salish Matter",
+        "post_id": 549611,
+        "post_name": "Toby Fox",
         "votes": 1,
         "vote_type": "ISTJ",
-        "total_votes": 42,
-        "confidence": 2.38
+        "total_votes": 3,
+        "confidence": 33.33
+    },
+    {
+        "post_id": 254280,
+        "post_name": "Sima Hesri",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 6,
+        "confidence": 16.67
     },
     {
         "post_id": 807852,
@@ -5230,6 +5238,14 @@
         "vote_type": "ISTJ",
         "total_votes": 1,
         "confidence": 100
+    },
+    {
+        "post_id": 538335,
+        "post_name": "Ravi Dubey",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 2,
+        "confidence": 50
     },
     {
         "post_id": 807504,
@@ -5248,46 +5264,6 @@
         "confidence": 100
     },
     {
-        "post_id": 741948,
-        "post_name": "Merry Riana",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 2,
-        "confidence": 50
-    },
-    {
-        "post_id": 535338,
-        "post_name": "Karl Jacobs",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 656290,
-        "post_name": "Mark Hoffman",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 653939,
-        "post_name": "Amy Roloff",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 538335,
-        "post_name": "Ravi Dubey",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 2,
-        "confidence": 50
-    },
-    {
         "post_id": 538696,
         "post_name": "Se\u00f1ora Acero",
         "votes": 1,
@@ -5296,8 +5272,8 @@
         "confidence": 100
     },
     {
-        "post_id": 650865,
-        "post_name": "Cristin Milioti",
+        "post_id": 741948,
+        "post_name": "Merry Riana",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 2,
@@ -5320,8 +5296,48 @@
         "confidence": 100
     },
     {
+        "post_id": 656290,
+        "post_name": "Mark Hoffman",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 653939,
+        "post_name": "Amy Roloff",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
         "post_id": 543138,
         "post_name": "Rod Wave",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 548785,
+        "post_name": "Clair Kendra Kramer",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 11,
+        "confidence": 9.09
+    },
+    {
+        "post_id": 650865,
+        "post_name": "Cristin Milioti",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 2,
+        "confidence": 50
+    },
+    {
+        "post_id": 535338,
+        "post_name": "Karl Jacobs",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
@@ -5336,28 +5352,20 @@
         "confidence": 50
     },
     {
-        "post_id": 548785,
-        "post_name": "Clair Kendra Kramer",
+        "post_id": 254342,
+        "post_name": "Salish Matter",
         "votes": 1,
         "vote_type": "ISTJ",
-        "total_votes": 11,
-        "confidence": 9.09
+        "total_votes": 42,
+        "confidence": 2.38
     },
     {
-        "post_id": 549611,
-        "post_name": "Toby Fox",
+        "post_id": 990780,
+        "post_name": "Robert De Niro",
         "votes": 1,
         "vote_type": "ISTJ",
-        "total_votes": 3,
-        "confidence": 33.33
-    },
-    {
-        "post_id": 398,
-        "post_name": "Hotel Transylvania",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 7,
-        "confidence": 14.29
+        "total_votes": 1,
+        "confidence": 100
     },
     {
         "post_id": 931841,
@@ -5368,12 +5376,12 @@
         "confidence": 100
     },
     {
-        "post_id": 1093353,
-        "post_name": "Cristiano Ronaldo Jr. (Family Member)",
+        "post_id": 1094061,
+        "post_name": "Cyprien",
         "votes": 1,
         "vote_type": "ISTJ",
-        "total_votes": 1,
-        "confidence": 100
+        "total_votes": 4,
+        "confidence": 25
     },
     {
         "post_id": 1232873,
@@ -5430,14 +5438,6 @@
         "vote_type": "ISTJ",
         "total_votes": 3,
         "confidence": 33.33
-    },
-    {
-        "post_id": 1119551,
-        "post_name": "Abhishek Nigam",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 34,
-        "confidence": 2.94
     },
     {
         "post_id": 1,
