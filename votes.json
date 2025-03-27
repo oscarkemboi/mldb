@@ -740,8 +740,8 @@
         "post_name": "Giorgia Meloni",
         "votes": 347,
         "vote_type": "ENTJ",
-        "total_votes": 357,
-        "confidence": 97.2
+        "total_votes": 358,
+        "confidence": 96.93
     },
     {
         "post_id": 1096818,
@@ -1092,8 +1092,8 @@
         "post_name": "Ned Luke",
         "votes": 56,
         "vote_type": "ENTP",
-        "total_votes": 57,
-        "confidence": 98.25
+        "total_votes": 58,
+        "confidence": 96.55
     },
     {
         "post_id": 254342,
@@ -1102,6 +1102,14 @@
         "vote_type": "ENTP",
         "total_votes": 42,
         "confidence": 19.05
+    },
+    {
+        "post_id": 12115,
+        "post_name": "Tom Kaulitz",
+        "votes": 7,
+        "vote_type": "ENTP",
+        "total_votes": 11,
+        "confidence": 63.64
     },
     {
         "post_id": 208679,
@@ -1120,20 +1128,12 @@
         "confidence": 70
     },
     {
-        "post_id": 12115,
-        "post_name": "Tom Kaulitz",
-        "votes": 7,
-        "vote_type": "ENTP",
-        "total_votes": 11,
-        "confidence": 63.64
-    },
-    {
         "post_id": 153785,
         "post_name": "MatPat ",
         "votes": 6,
         "vote_type": "ENTP",
-        "total_votes": 6,
-        "confidence": 100
+        "total_votes": 7,
+        "confidence": 85.71
     },
     {
         "post_id": 1231943,
@@ -1152,8 +1152,8 @@
         "confidence": 80
     },
     {
-        "post_id": 1229117,
-        "post_name": "Molly Owens",
+        "post_id": 250515,
+        "post_name": "Oliver Riedel",
         "votes": 4,
         "vote_type": "ENTP",
         "total_votes": 4,
@@ -1164,16 +1164,8 @@
         "post_name": "Giorgia Meloni",
         "votes": 4,
         "vote_type": "ENTP",
-        "total_votes": 357,
+        "total_votes": 358,
         "confidence": 1.12
-    },
-    {
-        "post_id": 550363,
-        "post_name": "Danila Kashin",
-        "votes": 4,
-        "vote_type": "ENTP",
-        "total_votes": 22,
-        "confidence": 18.18
     },
     {
         "post_id": 1053752,
@@ -1184,12 +1176,20 @@
         "confidence": 80
     },
     {
-        "post_id": 250515,
-        "post_name": "Oliver Riedel",
+        "post_id": 1229117,
+        "post_name": "Molly Owens",
         "votes": 4,
         "vote_type": "ENTP",
         "total_votes": 4,
         "confidence": 100
+    },
+    {
+        "post_id": 550363,
+        "post_name": "Danila Kashin",
+        "votes": 4,
+        "vote_type": "ENTP",
+        "total_votes": 22,
+        "confidence": 18.18
     },
     {
         "post_id": 949551,
@@ -1200,20 +1200,52 @@
         "confidence": 66.67
     },
     {
-        "post_id": 179305,
-        "post_name": "Jake Webber ",
-        "votes": 3,
-        "vote_type": "ENTP",
-        "total_votes": 4,
-        "confidence": 75
-    },
-    {
         "post_id": 204567,
         "post_name": "Sherin's Beauty ",
         "votes": 3,
         "vote_type": "ENTP",
         "total_votes": 9,
         "confidence": 33.33
+    },
+    {
+        "post_id": 9433,
+        "post_name": "Weightlifting Fairy Kim Bok joo",
+        "votes": 3,
+        "vote_type": "ENTP",
+        "total_votes": 8,
+        "confidence": 37.5
+    },
+    {
+        "post_id": 689310,
+        "post_name": "Beverly Hills Cop",
+        "votes": 3,
+        "vote_type": "ENTP",
+        "total_votes": 3,
+        "confidence": 100
+    },
+    {
+        "post_id": 57437,
+        "post_name": "Matt Rife",
+        "votes": 3,
+        "vote_type": "ENTP",
+        "total_votes": 3,
+        "confidence": 100
+    },
+    {
+        "post_id": 231782,
+        "post_name": "Alana Lintao",
+        "votes": 3,
+        "vote_type": "ENTP",
+        "total_votes": 9,
+        "confidence": 33.33
+    },
+    {
+        "post_id": 179305,
+        "post_name": "Jake Webber ",
+        "votes": 3,
+        "vote_type": "ENTP",
+        "total_votes": 4,
+        "confidence": 75
     },
     {
         "post_id": 553973,
@@ -1232,12 +1264,12 @@
         "confidence": 50
     },
     {
-        "post_id": 9433,
-        "post_name": "Weightlifting Fairy Kim Bok joo",
+        "post_id": 544915,
+        "post_name": "TQ Stacey",
         "votes": 3,
         "vote_type": "ENTP",
-        "total_votes": 8,
-        "confidence": 37.5
+        "total_votes": 3,
+        "confidence": 100
     },
     {
         "post_id": 95695,
@@ -1248,44 +1280,20 @@
         "confidence": 75
     },
     {
-        "post_id": 57437,
-        "post_name": "Matt Rife",
-        "votes": 3,
-        "vote_type": "ENTP",
-        "total_votes": 3,
-        "confidence": 100
-    },
-    {
-        "post_id": 544915,
-        "post_name": "TQ Stacey",
-        "votes": 3,
-        "vote_type": "ENTP",
-        "total_votes": 3,
-        "confidence": 100
-    },
-    {
-        "post_id": 231782,
-        "post_name": "Alana Lintao",
-        "votes": 3,
-        "vote_type": "ENTP",
-        "total_votes": 9,
-        "confidence": 33.33
-    },
-    {
-        "post_id": 689310,
-        "post_name": "Beverly Hills Cop",
-        "votes": 3,
-        "vote_type": "ENTP",
-        "total_votes": 3,
-        "confidence": 100
-    },
-    {
-        "post_id": 690239,
-        "post_name": "Bishop Bullwinkle",
+        "post_id": 90310,
+        "post_name": "Hardik Pandya",
         "votes": 2,
         "vote_type": "ENTP",
-        "total_votes": 2,
-        "confidence": 100
+        "total_votes": 4,
+        "confidence": 50
+    },
+    {
+        "post_id": 119211,
+        "post_name": "World Leader    Tarja Halonen",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 7,
+        "confidence": 28.57
     },
     {
         "post_id": 932939,
@@ -1296,96 +1304,16 @@
         "confidence": 100
     },
     {
-        "post_id": 76573,
-        "post_name": "Moritz Hau",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 681729,
-        "post_name": "Brothers &amp; Sisters",
+        "post_id": 970701,
+        "post_name": "Nikita Udanovskiy",
         "votes": 2,
         "vote_type": "ENTP",
         "total_votes": 2,
         "confidence": 100
-    },
-    {
-        "post_id": 658100,
-        "post_name": "Yvonne McGuinness",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 23,
-        "confidence": 8.7
-    },
-    {
-        "post_id": 708703,
-        "post_name": "Sam &#038; Cat",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 168455,
-        "post_name": "Vaso Bakocevic   MMA Fighter",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 739815,
-        "post_name": "Maureen O&#039;Hara",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 984225,
-        "post_name": "Radical Soda",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 3,
-        "confidence": 66.67
     },
     {
         "post_id": 104240,
         "post_name": "Zheng Kai",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 90310,
-        "post_name": "Hardik Pandya",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 4,
-        "confidence": 50
-    },
-    {
-        "post_id": 253934,
-        "post_name": "Niharika Nm",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 772940,
-        "post_name": "GONE.Fludd",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 4,
-        "confidence": 50
-    },
-    {
-        "post_id": 970701,
-        "post_name": "Nikita Udanovskiy",
         "votes": 2,
         "vote_type": "ENTP",
         "total_votes": 2,
@@ -1400,20 +1328,44 @@
         "confidence": 100
     },
     {
-        "post_id": 770052,
-        "post_name": "Kendrick Curry",
+        "post_id": 914533,
+        "post_name": "Sam Sam&Lona",
         "votes": 2,
         "vote_type": "ENTP",
         "total_votes": 2,
         "confidence": 100
     },
     {
-        "post_id": 1055929,
-        "post_name": "iisadorax",
+        "post_id": 948338,
+        "post_name": "Windy31",
         "votes": 2,
         "vote_type": "ENTP",
-        "total_votes": 4,
-        "confidence": 50
+        "total_votes": 16,
+        "confidence": 12.5
+    },
+    {
+        "post_id": 708703,
+        "post_name": "Sam &#038; Cat",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 3,
+        "confidence": 66.67
+    },
+    {
+        "post_id": 850126,
+        "post_name": "Zyphalopagus",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 681729,
+        "post_name": "Brothers &amp; Sisters",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 2,
+        "confidence": 100
     },
     {
         "post_id": 254272,
@@ -1424,8 +1376,40 @@
         "confidence": 100
     },
     {
-        "post_id": 1058349,
-        "post_name": "ItsJustNick",
+        "post_id": 230901,
+        "post_name": "Alina Kim",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 11,
+        "confidence": 18.18
+    },
+    {
+        "post_id": 540722,
+        "post_name": "Ashley Sarmiento",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 4,
+        "confidence": 50
+    },
+    {
+        "post_id": 209693,
+        "post_name": "Xavi Simons ",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 8,
+        "confidence": 25
+    },
+    {
+        "post_id": 546506,
+        "post_name": "Amores Verdaderos",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 3,
+        "confidence": 66.67
+    },
+    {
+        "post_id": 196559,
+        "post_name": "Emma Norton ",
         "votes": 2,
         "vote_type": "ENTP",
         "total_votes": 2,
@@ -1438,6 +1422,14 @@
         "vote_type": "ENTP",
         "total_votes": 2,
         "confidence": 100
+    },
+    {
+        "post_id": 658100,
+        "post_name": "Yvonne McGuinness",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 23,
+        "confidence": 8.7
     },
     {
         "post_id": 1096818,
@@ -1840,12 +1832,12 @@
         "confidence": 13.64
     },
     {
-        "post_id": 193200,
-        "post_name": "Cindy Paola ",
+        "post_id": 135667,
+        "post_name": "Rapper    Bbno$",
         "votes": 3,
         "vote_type": "ESFP",
-        "total_votes": 13,
-        "confidence": 23.08
+        "total_votes": 3,
+        "confidence": 100
     },
     {
         "post_id": 55985,
@@ -1864,6 +1856,14 @@
         "confidence": 13.64
     },
     {
+        "post_id": 193200,
+        "post_name": "Cindy Paola ",
+        "votes": 3,
+        "vote_type": "ESFP",
+        "total_votes": 13,
+        "confidence": 23.08
+    },
+    {
         "post_id": 536540,
         "post_name": "Fouz Alfahad",
         "votes": 3,
@@ -1878,14 +1878,6 @@
         "vote_type": "ESFP",
         "total_votes": 6,
         "confidence": 50
-    },
-    {
-        "post_id": 1003825,
-        "post_name": "Kangel",
-        "votes": 2,
-        "vote_type": "ESFP",
-        "total_votes": 5,
-        "confidence": 40
     },
     {
         "post_id": 92118,
@@ -1920,12 +1912,12 @@
         "confidence": 50
     },
     {
-        "post_id": 135667,
-        "post_name": "Rapper    Bbno$",
+        "post_id": 1003825,
+        "post_name": "Kangel",
         "votes": 2,
         "vote_type": "ESFP",
-        "total_votes": 2,
-        "confidence": 100
+        "total_votes": 5,
+        "confidence": 40
     },
     {
         "post_id": 150266,
@@ -2520,14 +2512,6 @@
         "confidence": 8.03
     },
     {
-        "post_id": 1150853,
-        "post_name": "BrianMaps",
-        "votes": 9,
-        "vote_type": "ESTP",
-        "total_votes": 22,
-        "confidence": 40.91
-    },
-    {
         "post_id": 756429,
         "post_name": "Tyler Perry&#039;s Young Dylan",
         "votes": 9,
@@ -2536,28 +2520,12 @@
         "confidence": 90
     },
     {
-        "post_id": 73,
-        "post_name": "Kung Fu Panda",
-        "votes": 5,
+        "post_id": 1150853,
+        "post_name": "BrianMaps",
+        "votes": 9,
         "vote_type": "ESTP",
         "total_votes": 22,
-        "confidence": 22.73
-    },
-    {
-        "post_id": 148478,
-        "post_name": "Donald Trump",
-        "votes": 5,
-        "vote_type": "ESTP",
-        "total_votes": 6,
-        "confidence": 83.33
-    },
-    {
-        "post_id": 254342,
-        "post_name": "Salish Matter",
-        "votes": 5,
-        "vote_type": "ESTP",
-        "total_votes": 42,
-        "confidence": 11.9
+        "confidence": 40.91
     },
     {
         "post_id": 58448,
@@ -2568,20 +2536,36 @@
         "confidence": 71.43
     },
     {
+        "post_id": 73,
+        "post_name": "Kung Fu Panda",
+        "votes": 5,
+        "vote_type": "ESTP",
+        "total_votes": 22,
+        "confidence": 22.73
+    },
+    {
+        "post_id": 254342,
+        "post_name": "Salish Matter",
+        "votes": 5,
+        "vote_type": "ESTP",
+        "total_votes": 42,
+        "confidence": 11.9
+    },
+    {
+        "post_id": 148478,
+        "post_name": "Donald Trump",
+        "votes": 5,
+        "vote_type": "ESTP",
+        "total_votes": 6,
+        "confidence": 83.33
+    },
+    {
         "post_id": 180706,
         "post_name": "Biggy Norris ",
         "votes": 5,
         "vote_type": "ESTP",
         "total_votes": 10,
         "confidence": 50
-    },
-    {
-        "post_id": 547306,
-        "post_name": "Lucy Punch",
-        "votes": 3,
-        "vote_type": "ESTP",
-        "total_votes": 3,
-        "confidence": 100
     },
     {
         "post_id": 1119093,
@@ -2600,12 +2584,12 @@
         "confidence": 100
     },
     {
-        "post_id": 204226,
-        "post_name": "Arash Labaf ",
+        "post_id": 547306,
+        "post_name": "Lucy Punch",
         "votes": 3,
         "vote_type": "ESTP",
-        "total_votes": 5,
-        "confidence": 60
+        "total_votes": 3,
+        "confidence": 100
     },
     {
         "post_id": 200175,
@@ -2616,6 +2600,14 @@
         "confidence": 100
     },
     {
+        "post_id": 204226,
+        "post_name": "Arash Labaf ",
+        "votes": 3,
+        "vote_type": "ESTP",
+        "total_votes": 5,
+        "confidence": 60
+    },
+    {
         "post_id": 676620,
         "post_name": "Alvin and the Chipmunks: The Road Chip",
         "votes": 3,
@@ -2624,12 +2616,12 @@
         "confidence": 33.33
     },
     {
-        "post_id": 168957,
-        "post_name": "Ducky Bhai ",
+        "post_id": 1059082,
+        "post_name": "Izabela Zabielska",
         "votes": 2,
         "vote_type": "ESTP",
-        "total_votes": 9,
-        "confidence": 22.22
+        "total_votes": 3,
+        "confidence": 66.67
     },
     {
         "post_id": 153685,
@@ -2640,14 +2632,6 @@
         "confidence": 66.67
     },
     {
-        "post_id": 83482,
-        "post_name": "Giorgia Meloni",
-        "votes": 2,
-        "vote_type": "ESTP",
-        "total_votes": 357,
-        "confidence": 0.56
-    },
-    {
         "post_id": 171042,
         "post_name": "Seth Brooks Binzer ",
         "votes": 2,
@@ -2656,16 +2640,8 @@
         "confidence": 28.57
     },
     {
-        "post_id": 250610,
-        "post_name": "Strong Girl Bong soon",
-        "votes": 2,
-        "vote_type": "ESTP",
-        "total_votes": 5,
-        "confidence": 40
-    },
-    {
-        "post_id": 1146142,
-        "post_name": "Bill Clinton",
+        "post_id": 148891,
+        "post_name": "Rapper Diddy ",
         "votes": 2,
         "vote_type": "ESTP",
         "total_votes": 3,
@@ -2680,20 +2656,12 @@
         "confidence": 100
     },
     {
-        "post_id": 97302,
-        "post_name": "Kryz Uy",
+        "post_id": 124153,
+        "post_name": "Princess    Princess Alexia of the Netherlands",
         "votes": 2,
         "vote_type": "ESTP",
         "total_votes": 2,
         "confidence": 100
-    },
-    {
-        "post_id": 1059082,
-        "post_name": "Izabela Zabielska",
-        "votes": 2,
-        "vote_type": "ESTP",
-        "total_votes": 3,
-        "confidence": 66.67
     },
     {
         "post_id": 982013,
@@ -2704,20 +2672,36 @@
         "confidence": 33.33
     },
     {
-        "post_id": 148891,
-        "post_name": "Rapper Diddy ",
+        "post_id": 250610,
+        "post_name": "Strong Girl Bong soon",
         "votes": 2,
         "vote_type": "ESTP",
-        "total_votes": 3,
-        "confidence": 66.67
+        "total_votes": 5,
+        "confidence": 40
     },
     {
-        "post_id": 12115,
-        "post_name": "Tom Kaulitz",
+        "post_id": 83482,
+        "post_name": "Giorgia Meloni",
         "votes": 2,
         "vote_type": "ESTP",
-        "total_votes": 11,
-        "confidence": 18.18
+        "total_votes": 358,
+        "confidence": 0.56
+    },
+    {
+        "post_id": 168957,
+        "post_name": "Ducky Bhai ",
+        "votes": 2,
+        "vote_type": "ESTP",
+        "total_votes": 9,
+        "confidence": 22.22
+    },
+    {
+        "post_id": 97302,
+        "post_name": "Kryz Uy",
+        "votes": 2,
+        "vote_type": "ESTP",
+        "total_votes": 2,
+        "confidence": 100
     },
     {
         "post_id": 11914,
@@ -2728,16 +2712,8 @@
         "confidence": 100
     },
     {
-        "post_id": 124153,
-        "post_name": "Princess    Princess Alexia of the Netherlands",
-        "votes": 2,
-        "vote_type": "ESTP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 1098314,
-        "post_name": "IShowSpeed",
+        "post_id": 7388,
+        "post_name": "Spider Man 3",
         "votes": 2,
         "vote_type": "ESTP",
         "total_votes": 5,
@@ -2752,76 +2728,84 @@
         "confidence": 22.22
     },
     {
-        "post_id": 7388,
-        "post_name": "Spider Man 3",
+        "post_id": 1146142,
+        "post_name": "Bill Clinton",
+        "votes": 2,
+        "vote_type": "ESTP",
+        "total_votes": 3,
+        "confidence": 66.67
+    },
+    {
+        "post_id": 12115,
+        "post_name": "Tom Kaulitz",
+        "votes": 2,
+        "vote_type": "ESTP",
+        "total_votes": 11,
+        "confidence": 18.18
+    },
+    {
+        "post_id": 1098314,
+        "post_name": "IShowSpeed",
         "votes": 2,
         "vote_type": "ESTP",
         "total_votes": 5,
         "confidence": 40
     },
     {
-        "post_id": 550986,
-        "post_name": "Bea Borres",
+        "post_id": 841292,
+        "post_name": "Lodeyno   Ivan Konev",
         "votes": 1,
         "vote_type": "ESTP",
         "total_votes": 1,
         "confidence": 100
     },
     {
-        "post_id": 550876,
-        "post_name": "Motoki Maxted",
+        "post_id": 1149308,
+        "post_name": "Brandon O'Bryant",
         "votes": 1,
         "vote_type": "ESTP",
         "total_votes": 1,
         "confidence": 100
     },
     {
-        "post_id": 951652,
-        "post_name": "Yuriy Kaplan",
-        "votes": 1,
-        "vote_type": "ESTP",
-        "total_votes": 7,
-        "confidence": 14.29
-    },
-    {
-        "post_id": 950735,
-        "post_name": "Yoo Jun sang",
-        "votes": 1,
-        "vote_type": "ESTP",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 948398,
-        "post_name": "Winston Churchill",
-        "votes": 1,
-        "vote_type": "ESTP",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 750804,
-        "post_name": "Ash Alk",
-        "votes": 1,
-        "vote_type": "ESTP",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 556950,
-        "post_name": "Angel Baby",
+        "post_id": 1141120,
+        "post_name": "Axel Thesleff",
         "votes": 1,
         "vote_type": "ESTP",
         "total_votes": 2,
         "confidence": 50
     },
     {
-        "post_id": 944354,
-        "post_name": "Viki Show",
+        "post_id": 921630,
+        "post_name": "Sherin's Beauty",
         "votes": 1,
         "vote_type": "ESTP",
         "total_votes": 3,
         "confidence": 33.33
+    },
+    {
+        "post_id": 831455,
+        "post_name": "Latto",
+        "votes": 1,
+        "vote_type": "ESTP",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 1128612,
+        "post_name": "Alper Kul",
+        "votes": 1,
+        "vote_type": "ESTP",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 1119748,
+        "post_name": "Abraham Lincoln",
+        "votes": 1,
+        "vote_type": "ESTP",
+        "total_votes": 2,
+        "confidence": 50
     },
     {
         "post_id": 936761,
@@ -2832,20 +2816,20 @@
         "confidence": 100
     },
     {
-        "post_id": 753868,
-        "post_name": "Johan Papz",
-        "votes": 1,
-        "vote_type": "ESTP",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 921630,
-        "post_name": "Sherin's Beauty",
+        "post_id": 944354,
+        "post_name": "Viki Show",
         "votes": 1,
         "vote_type": "ESTP",
         "total_votes": 3,
         "confidence": 33.33
+    },
+    {
+        "post_id": 1231812,
+        "post_name": "yulia navalnaya",
+        "votes": 1,
+        "vote_type": "ESTP",
+        "total_votes": 1,
+        "confidence": 100
     },
     {
         "post_id": 163608,
@@ -2900,28 +2884,12 @@
         "post_name": "Tierra de Reyes",
         "votes": 8,
         "vote_type": "INFJ",
-        "total_votes": 10,
-        "confidence": 80
-    },
-    {
-        "post_id": 12421,
-        "post_name": "Michael Kors",
-        "votes": 7,
-        "vote_type": "INFJ",
-        "total_votes": 14,
-        "confidence": 50
+        "total_votes": 11,
+        "confidence": 72.73
     },
     {
         "post_id": 2411,
         "post_name": "Robin Gibb",
-        "votes": 7,
-        "vote_type": "INFJ",
-        "total_votes": 9,
-        "confidence": 77.78
-    },
-    {
-        "post_id": 1097809,
-        "post_name": "daragrj",
         "votes": 7,
         "vote_type": "INFJ",
         "total_votes": 9,
@@ -2936,40 +2904,24 @@
         "confidence": 25.93
     },
     {
-        "post_id": 66926,
-        "post_name": "Ana Beatriz Barros",
-        "votes": 6,
+        "post_id": 1097809,
+        "post_name": "daragrj",
+        "votes": 7,
         "vote_type": "INFJ",
         "total_votes": 9,
-        "confidence": 66.67
+        "confidence": 77.78
     },
     {
-        "post_id": 184038,
-        "post_name": "Leonardo DeValen ",
-        "votes": 6,
+        "post_id": 12421,
+        "post_name": "Michael Kors",
+        "votes": 7,
         "vote_type": "INFJ",
-        "total_votes": 6,
-        "confidence": 100
-    },
-    {
-        "post_id": 165835,
-        "post_name": "Alf Landon ",
-        "votes": 6,
-        "vote_type": "INFJ",
-        "total_votes": 6,
-        "confidence": 100
+        "total_votes": 14,
+        "confidence": 50
     },
     {
         "post_id": 547270,
         "post_name": "Donny Roelvink",
-        "votes": 6,
-        "vote_type": "INFJ",
-        "total_votes": 6,
-        "confidence": 100
-    },
-    {
-        "post_id": 153853,
-        "post_name": "Rapunzel ASMR ",
         "votes": 6,
         "vote_type": "INFJ",
         "total_votes": 6,
@@ -2984,12 +2936,44 @@
         "confidence": 66.67
     },
     {
-        "post_id": 1143863,
-        "post_name": "Ben Barnes",
+        "post_id": 165835,
+        "post_name": "Alf Landon ",
+        "votes": 6,
+        "vote_type": "INFJ",
+        "total_votes": 6,
+        "confidence": 100
+    },
+    {
+        "post_id": 184038,
+        "post_name": "Leonardo DeValen ",
+        "votes": 6,
+        "vote_type": "INFJ",
+        "total_votes": 6,
+        "confidence": 100
+    },
+    {
+        "post_id": 153853,
+        "post_name": "Rapunzel ASMR ",
+        "votes": 6,
+        "vote_type": "INFJ",
+        "total_votes": 6,
+        "confidence": 100
+    },
+    {
+        "post_id": 66926,
+        "post_name": "Ana Beatriz Barros",
+        "votes": 6,
+        "vote_type": "INFJ",
+        "total_votes": 9,
+        "confidence": 66.67
+    },
+    {
+        "post_id": 125224,
+        "post_name": "TV Actress    Reem Sameer Shaikh",
         "votes": 5,
         "vote_type": "INFJ",
-        "total_votes": 8,
-        "confidence": 62.5
+        "total_votes": 6,
+        "confidence": 83.33
     },
     {
         "post_id": 56138,
@@ -3000,8 +2984,8 @@
         "confidence": 100
     },
     {
-        "post_id": 695600,
-        "post_name": "Jeff Passan",
+        "post_id": 961020,
+        "post_name": "Minitoon",
         "votes": 5,
         "vote_type": "INFJ",
         "total_votes": 5,
@@ -3016,16 +3000,8 @@
         "confidence": 100
     },
     {
-        "post_id": 120636,
-        "post_name": "World Music Singer    Abdel Halim Hafez",
-        "votes": 5,
-        "vote_type": "INFJ",
-        "total_votes": 9,
-        "confidence": 55.56
-    },
-    {
-        "post_id": 961020,
-        "post_name": "Minitoon",
+        "post_id": 695600,
+        "post_name": "Jeff Passan",
         "votes": 5,
         "vote_type": "INFJ",
         "total_votes": 5,
@@ -3040,36 +3016,20 @@
         "confidence": 14.71
     },
     {
-        "post_id": 125224,
-        "post_name": "TV Actress    Reem Sameer Shaikh",
+        "post_id": 120636,
+        "post_name": "World Music Singer    Abdel Halim Hafez",
         "votes": 5,
         "vote_type": "INFJ",
-        "total_votes": 6,
-        "confidence": 83.33
+        "total_votes": 9,
+        "confidence": 55.56
     },
     {
-        "post_id": 828020,
-        "post_name": "James Carville",
-        "votes": 4,
+        "post_id": 1143863,
+        "post_name": "Ben Barnes",
+        "votes": 5,
         "vote_type": "INFJ",
-        "total_votes": 4,
-        "confidence": 100
-    },
-    {
-        "post_id": 8886,
-        "post_name": "Abram Engle",
-        "votes": 4,
-        "vote_type": "INFJ",
-        "total_votes": 5,
-        "confidence": 80
-    },
-    {
-        "post_id": 124714,
-        "post_name": "Dancer    Audrey Lane Partlow",
-        "votes": 4,
-        "vote_type": "INFJ",
-        "total_votes": 5,
-        "confidence": 80
+        "total_votes": 8,
+        "confidence": 62.5
     },
     {
         "post_id": 56930,
@@ -3096,28 +3056,28 @@
         "confidence": 66.67
     },
     {
-        "post_id": 204489,
-        "post_name": "Fai Khadra ",
-        "votes": 3,
-        "vote_type": "INFJ",
-        "total_votes": 4,
-        "confidence": 75
-    },
-    {
-        "post_id": 204763,
-        "post_name": "Denise Soong Ee Lyn",
-        "votes": 3,
+        "post_id": 124714,
+        "post_name": "Dancer    Audrey Lane Partlow",
+        "votes": 4,
         "vote_type": "INFJ",
         "total_votes": 5,
-        "confidence": 60
+        "confidence": 80
     },
     {
-        "post_id": 163634,
-        "post_name": "Khaleda Zia ",
-        "votes": 3,
+        "post_id": 828020,
+        "post_name": "James Carville",
+        "votes": 4,
         "vote_type": "INFJ",
-        "total_votes": 3,
+        "total_votes": 4,
         "confidence": 100
+    },
+    {
+        "post_id": 8886,
+        "post_name": "Abram Engle",
+        "votes": 4,
+        "vote_type": "INFJ",
+        "total_votes": 5,
+        "confidence": 80
     },
     {
         "post_id": 115168,
@@ -3128,12 +3088,68 @@
         "confidence": 75
     },
     {
+        "post_id": 1230505,
+        "post_name": "Aisha mian mbti",
+        "votes": 3,
+        "vote_type": "INFJ",
+        "total_votes": 3,
+        "confidence": 100
+    },
+    {
+        "post_id": 84162,
+        "post_name": "Kevin Langue",
+        "votes": 3,
+        "vote_type": "INFJ",
+        "total_votes": 4,
+        "confidence": 75
+    },
+    {
+        "post_id": 548785,
+        "post_name": "Clair Kendra Kramer",
+        "votes": 3,
+        "vote_type": "INFJ",
+        "total_votes": 11,
+        "confidence": 27.27
+    },
+    {
+        "post_id": 163634,
+        "post_name": "Khaleda Zia ",
+        "votes": 3,
+        "vote_type": "INFJ",
+        "total_votes": 3,
+        "confidence": 100
+    },
+    {
         "post_id": 144532,
         "post_name": "Movie Actor    Joe Alwyn",
         "votes": 3,
         "vote_type": "INFJ",
         "total_votes": 3,
         "confidence": 100
+    },
+    {
+        "post_id": 658664,
+        "post_name": "Magdi Yacoub",
+        "votes": 3,
+        "vote_type": "INFJ",
+        "total_votes": 9,
+        "confidence": 33.33
+    },
+    {
+        "post_id": 189777,
+        "post_name": "Christian Hogue ",
+        "votes": 3,
+        "vote_type": "INFJ",
+        "total_votes": 5,
+        "confidence": 60
+    },
+    {
+        "post_id": 204489,
+        "post_name": "Fai Khadra ",
+        "votes": 3,
+        "vote_type": "INFJ",
+        "total_votes": 4,
+        "confidence": 75
     },
     {
         "post_id": 207091,
@@ -3152,28 +3168,12 @@
         "confidence": 100
     },
     {
-        "post_id": 538870,
-        "post_name": "Erika Diane",
+        "post_id": 658100,
+        "post_name": "Yvonne McGuinness",
         "votes": 3,
         "vote_type": "INFJ",
-        "total_votes": 8,
-        "confidence": 37.5
-    },
-    {
-        "post_id": 189777,
-        "post_name": "Christian Hogue ",
-        "votes": 3,
-        "vote_type": "INFJ",
-        "total_votes": 5,
-        "confidence": 60
-    },
-    {
-        "post_id": 84162,
-        "post_name": "Kevin Langue",
-        "votes": 3,
-        "vote_type": "INFJ",
-        "total_votes": 4,
-        "confidence": 75
+        "total_votes": 23,
+        "confidence": 13.04
     },
     {
         "post_id": 545871,
@@ -3184,22 +3184,6 @@
         "confidence": 25
     },
     {
-        "post_id": 547746,
-        "post_name": "Amouranth",
-        "votes": 3,
-        "vote_type": "INFJ",
-        "total_votes": 5,
-        "confidence": 60
-    },
-    {
-        "post_id": 548785,
-        "post_name": "Clair Kendra Kramer",
-        "votes": 3,
-        "vote_type": "INFJ",
-        "total_votes": 11,
-        "confidence": 27.27
-    },
-    {
         "post_id": 551511,
         "post_name": "Gerry Rafferty",
         "votes": 3,
@@ -3208,12 +3192,12 @@
         "confidence": 100
     },
     {
-        "post_id": 658100,
-        "post_name": "Yvonne McGuinness",
+        "post_id": 547746,
+        "post_name": "Amouranth",
         "votes": 3,
         "vote_type": "INFJ",
-        "total_votes": 23,
-        "confidence": 13.04
+        "total_votes": 5,
+        "confidence": 60
     },
     {
         "post_id": 90190,
@@ -3232,20 +3216,20 @@
         "confidence": 4.01
     },
     {
-        "post_id": 150266,
-        "post_name": "YouTube Star   Lauren Alexis ",
-        "votes": 13,
-        "vote_type": "INFP",
-        "total_votes": 19,
-        "confidence": 68.42
-    },
-    {
         "post_id": 1119551,
         "post_name": "Abhishek Nigam",
         "votes": 13,
         "vote_type": "INFP",
         "total_votes": 34,
         "confidence": 38.24
+    },
+    {
+        "post_id": 150266,
+        "post_name": "YouTube Star   Lauren Alexis ",
+        "votes": 13,
+        "vote_type": "INFP",
+        "total_votes": 19,
+        "confidence": 68.42
     },
     {
         "post_id": 1231943,
@@ -3280,12 +3264,12 @@
         "confidence": 31.82
     },
     {
-        "post_id": 540942,
-        "post_name": "Transformers: Prime",
+        "post_id": 842724,
+        "post_name": "Joshua A. Norton",
         "votes": 6,
         "vote_type": "INFP",
-        "total_votes": 8,
-        "confidence": 75
+        "total_votes": 16,
+        "confidence": 37.5
     },
     {
         "post_id": 2469,
@@ -3294,6 +3278,22 @@
         "vote_type": "INFP",
         "total_votes": 7,
         "confidence": 85.71
+    },
+    {
+        "post_id": 1016185,
+        "post_name": "Lauren Alexis",
+        "votes": 6,
+        "vote_type": "INFP",
+        "total_votes": 6,
+        "confidence": 100
+    },
+    {
+        "post_id": 540942,
+        "post_name": "Transformers: Prime",
+        "votes": 6,
+        "vote_type": "INFP",
+        "total_votes": 8,
+        "confidence": 75
     },
     {
         "post_id": 151355,
@@ -3312,36 +3312,12 @@
         "confidence": 100
     },
     {
-        "post_id": 842724,
-        "post_name": "Joshua A. Norton",
-        "votes": 6,
-        "vote_type": "INFP",
-        "total_votes": 16,
-        "confidence": 37.5
-    },
-    {
-        "post_id": 1016185,
-        "post_name": "Lauren Alexis",
-        "votes": 6,
-        "vote_type": "INFP",
-        "total_votes": 6,
-        "confidence": 100
-    },
-    {
         "post_id": 658100,
         "post_name": "Yvonne McGuinness",
         "votes": 6,
         "vote_type": "INFP",
         "total_votes": 23,
         "confidence": 26.09
-    },
-    {
-        "post_id": 117043,
-        "post_name": "Pop Singer    Daniel Bedingfield",
-        "votes": 5,
-        "vote_type": "INFP",
-        "total_votes": 7,
-        "confidence": 71.43
     },
     {
         "post_id": 180329,
@@ -3352,6 +3328,14 @@
         "confidence": 100
     },
     {
+        "post_id": 117043,
+        "post_name": "Pop Singer    Daniel Bedingfield",
+        "votes": 5,
+        "vote_type": "INFP",
+        "total_votes": 7,
+        "confidence": 71.43
+    },
+    {
         "post_id": 799073,
         "post_name": "Andrea So",
         "votes": 5,
@@ -3360,48 +3344,8 @@
         "confidence": 83.33
     },
     {
-        "post_id": 231368,
-        "post_name": "Benson Boone",
-        "votes": 4,
-        "vote_type": "INFP",
-        "total_votes": 6,
-        "confidence": 66.67
-    },
-    {
         "post_id": 1129767,
         "post_name": "Amber Doig Thorne",
-        "votes": 4,
-        "vote_type": "INFP",
-        "total_votes": 5,
-        "confidence": 80
-    },
-    {
-        "post_id": 1865,
-        "post_name": "Crazy Ex Girlfriend",
-        "votes": 4,
-        "vote_type": "INFP",
-        "total_votes": 12,
-        "confidence": 33.33
-    },
-    {
-        "post_id": 208921,
-        "post_name": "Jan Ullrich   Cyclist",
-        "votes": 4,
-        "vote_type": "INFP",
-        "total_votes": 5,
-        "confidence": 80
-    },
-    {
-        "post_id": 960333,
-        "post_name": "Milana Nekrasova",
-        "votes": 4,
-        "vote_type": "INFP",
-        "total_votes": 4,
-        "confidence": 100
-    },
-    {
-        "post_id": 108802,
-        "post_name": "Cillian Murphy",
         "votes": 4,
         "vote_type": "INFP",
         "total_votes": 5,
@@ -3414,6 +3358,30 @@
         "vote_type": "INFP",
         "total_votes": 5,
         "confidence": 80
+    },
+    {
+        "post_id": 208921,
+        "post_name": "Jan Ullrich   Cyclist",
+        "votes": 4,
+        "vote_type": "INFP",
+        "total_votes": 5,
+        "confidence": 80
+    },
+    {
+        "post_id": 231368,
+        "post_name": "Benson Boone",
+        "votes": 4,
+        "vote_type": "INFP",
+        "total_votes": 6,
+        "confidence": 66.67
+    },
+    {
+        "post_id": 90196,
+        "post_name": "Guru Randhawa",
+        "votes": 4,
+        "vote_type": "INFP",
+        "total_votes": 4,
+        "confidence": 100
     },
     {
         "post_id": 983905,
@@ -3432,14 +3400,6 @@
         "confidence": 100
     },
     {
-        "post_id": 90196,
-        "post_name": "Guru Randhawa",
-        "votes": 4,
-        "vote_type": "INFP",
-        "total_votes": 4,
-        "confidence": 100
-    },
-    {
         "post_id": 254342,
         "post_name": "Salish Matter",
         "votes": 4,
@@ -3448,12 +3408,36 @@
         "confidence": 9.52
     },
     {
-        "post_id": 95103,
-        "post_name": "Sezen Aksu",
-        "votes": 3,
+        "post_id": 1865,
+        "post_name": "Crazy Ex Girlfriend",
+        "votes": 4,
+        "vote_type": "INFP",
+        "total_votes": 12,
+        "confidence": 33.33
+    },
+    {
+        "post_id": 108802,
+        "post_name": "Cillian Murphy",
+        "votes": 4,
+        "vote_type": "INFP",
+        "total_votes": 5,
+        "confidence": 80
+    },
+    {
+        "post_id": 960333,
+        "post_name": "Milana Nekrasova",
+        "votes": 4,
         "vote_type": "INFP",
         "total_votes": 4,
-        "confidence": 75
+        "confidence": 100
+    },
+    {
+        "post_id": 173340,
+        "post_name": "Yves Saint Laurent ",
+        "votes": 3,
+        "vote_type": "INFP",
+        "total_votes": 3,
+        "confidence": 100
     },
     {
         "post_id": 90202,
@@ -3464,6 +3448,14 @@
         "confidence": 100
     },
     {
+        "post_id": 120636,
+        "post_name": "World Music Singer    Abdel Halim Hafez",
+        "votes": 3,
+        "vote_type": "INFP",
+        "total_votes": 9,
+        "confidence": 33.33
+    },
+    {
         "post_id": 1076774,
         "post_name": "Joost Klein",
         "votes": 3,
@@ -3472,12 +3464,12 @@
         "confidence": 15.79
     },
     {
-        "post_id": 120636,
-        "post_name": "World Music Singer    Abdel Halim Hafez",
+        "post_id": 95103,
+        "post_name": "Sezen Aksu",
         "votes": 3,
         "vote_type": "INFP",
-        "total_votes": 9,
-        "confidence": 33.33
+        "total_votes": 4,
+        "confidence": 75
     },
     {
         "post_id": 128674,
@@ -3496,14 +3488,6 @@
         "confidence": 75
     },
     {
-        "post_id": 173340,
-        "post_name": "Yves Saint Laurent ",
-        "votes": 3,
-        "vote_type": "INFP",
-        "total_votes": 3,
-        "confidence": 100
-    },
-    {
         "post_id": 1230615,
         "post_name": "James Earl of Wessex",
         "votes": 3,
@@ -3520,40 +3504,8 @@
         "confidence": 60
     },
     {
-        "post_id": 537958,
-        "post_name": "RawBeautyKristi",
-        "votes": 2,
-        "vote_type": "INFP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
         "post_id": 88213,
         "post_name": "Olga Nikolaevna",
-        "votes": 2,
-        "vote_type": "INFP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 756729,
-        "post_name": "Jay and Silent Bob Strike Back",
-        "votes": 2,
-        "vote_type": "INFP",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 549839,
-        "post_name": "RobertIDK",
-        "votes": 2,
-        "vote_type": "INFP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 768476,
-        "post_name": "Tanner Beeston",
         "votes": 2,
         "vote_type": "INFP",
         "total_votes": 2,
@@ -3568,12 +3520,20 @@
         "confidence": 50
     },
     {
-        "post_id": 93435,
-        "post_name": "Rem Koolhaas",
+        "post_id": 768476,
+        "post_name": "Tanner Beeston",
         "votes": 2,
         "vote_type": "INFP",
-        "total_votes": 8,
-        "confidence": 25
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 1116406,
+        "post_name": "Evan Peters",
+        "votes": 2,
+        "vote_type": "INFP",
+        "total_votes": 2,
+        "confidence": 100
     },
     {
         "post_id": 179629,
@@ -3584,20 +3544,36 @@
         "confidence": 100
     },
     {
-        "post_id": 172334,
-        "post_name": "Elizabeth Short",
+        "post_id": 1230511,
+        "post_name": "Oum kalthoum",
         "votes": 2,
         "vote_type": "INFP",
-        "total_votes": 12,
-        "confidence": 16.67
+        "total_votes": 23,
+        "confidence": 8.7
     },
     {
-        "post_id": 102109,
-        "post_name": "Hozier",
+        "post_id": 87868,
+        "post_name": "Oxxxymiron",
         "votes": 2,
         "vote_type": "INFP",
         "total_votes": 3,
         "confidence": 66.67
+    },
+    {
+        "post_id": 6298,
+        "post_name": "Thom Evans",
+        "votes": 2,
+        "vote_type": "INFP",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 3601,
+        "post_name": "Louise Post",
+        "votes": 2,
+        "vote_type": "INFP",
+        "total_votes": 4,
+        "confidence": 50
     },
     {
         "post_id": 163608,
@@ -3640,20 +3616,20 @@
         "confidence": 40.91
     },
     {
-        "post_id": 807619,
-        "post_name": "Angels &#038; Demons",
-        "votes": 8,
-        "vote_type": "INTJ",
-        "total_votes": 9,
-        "confidence": 88.89
-    },
-    {
         "post_id": 1230511,
         "post_name": "Oum kalthoum",
         "votes": 8,
         "vote_type": "INTJ",
         "total_votes": 23,
         "confidence": 34.78
+    },
+    {
+        "post_id": 807619,
+        "post_name": "Angels &#038; Demons",
+        "votes": 8,
+        "vote_type": "INTJ",
+        "total_votes": 9,
+        "confidence": 88.89
     },
     {
         "post_id": 1005544,
@@ -3672,12 +3648,20 @@
         "confidence": 83.33
     },
     {
-        "post_id": 143065,
-        "post_name": "Au5",
+        "post_id": 547809,
+        "post_name": "Friday the 13th (1980)",
         "votes": 4,
         "vote_type": "INTJ",
-        "total_votes": 27,
-        "confidence": 14.81
+        "total_votes": 4,
+        "confidence": 100
+    },
+    {
+        "post_id": 13162,
+        "post_name": "Charlotte Roberts",
+        "votes": 4,
+        "vote_type": "INTJ",
+        "total_votes": 6,
+        "confidence": 66.67
     },
     {
         "post_id": 4977,
@@ -3696,20 +3680,12 @@
         "confidence": 21.05
     },
     {
-        "post_id": 13162,
-        "post_name": "Charlotte Roberts",
+        "post_id": 143065,
+        "post_name": "Au5",
         "votes": 4,
         "vote_type": "INTJ",
-        "total_votes": 6,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 547809,
-        "post_name": "Friday the 13th (1980)",
-        "votes": 4,
-        "vote_type": "INTJ",
-        "total_votes": 4,
-        "confidence": 100
+        "total_votes": 27,
+        "confidence": 14.81
     },
     {
         "post_id": 150266,
@@ -3720,14 +3696,6 @@
         "confidence": 21.05
     },
     {
-        "post_id": 774637,
-        "post_name": "Mikey Musumeci",
-        "votes": 3,
-        "vote_type": "INTJ",
-        "total_votes": 4,
-        "confidence": 75
-    },
-    {
         "post_id": 1052206,
         "post_name": "Hedy Lamarr",
         "votes": 3,
@@ -3736,8 +3704,24 @@
         "confidence": 75
     },
     {
-        "post_id": 807432,
-        "post_name": "Gori Tere Pyaar Mein!",
+        "post_id": 774637,
+        "post_name": "Mikey Musumeci",
+        "votes": 3,
+        "vote_type": "INTJ",
+        "total_votes": 4,
+        "confidence": 75
+    },
+    {
+        "post_id": 231782,
+        "post_name": "Alana Lintao",
+        "votes": 3,
+        "vote_type": "INTJ",
+        "total_votes": 9,
+        "confidence": 33.33
+    },
+    {
+        "post_id": 82515,
+        "post_name": "Emis Killa",
         "votes": 3,
         "vote_type": "INTJ",
         "total_votes": 6,
@@ -3760,38 +3744,6 @@
         "confidence": 13.64
     },
     {
-        "post_id": 5221,
-        "post_name": "Ghost Rider",
-        "votes": 3,
-        "vote_type": "INTJ",
-        "total_votes": 3,
-        "confidence": 100
-    },
-    {
-        "post_id": 82515,
-        "post_name": "Emis Killa",
-        "votes": 3,
-        "vote_type": "INTJ",
-        "total_votes": 6,
-        "confidence": 50
-    },
-    {
-        "post_id": 231782,
-        "post_name": "Alana Lintao",
-        "votes": 3,
-        "vote_type": "INTJ",
-        "total_votes": 9,
-        "confidence": 33.33
-    },
-    {
-        "post_id": 844500,
-        "post_name": "  Clairaut, Alexis",
-        "votes": 3,
-        "vote_type": "INTJ",
-        "total_votes": 3,
-        "confidence": 100
-    },
-    {
         "post_id": 60001,
         "post_name": "Virgil Abloh",
         "votes": 3,
@@ -3800,28 +3752,20 @@
         "confidence": 100
     },
     {
-        "post_id": 1865,
-        "post_name": "Crazy Ex Girlfriend",
-        "votes": 3,
-        "vote_type": "INTJ",
-        "total_votes": 12,
-        "confidence": 25
-    },
-    {
-        "post_id": 927494,
-        "post_name": "Stephen Dawes",
+        "post_id": 807432,
+        "post_name": "Gori Tere Pyaar Mein!",
         "votes": 3,
         "vote_type": "INTJ",
         "total_votes": 6,
         "confidence": 50
     },
     {
-        "post_id": 967521,
-        "post_name": "Nayeli Lo Vera",
+        "post_id": 5221,
+        "post_name": "Ghost Rider",
         "votes": 3,
         "vote_type": "INTJ",
-        "total_votes": 4,
-        "confidence": 75
+        "total_votes": 3,
+        "confidence": 100
     },
     {
         "post_id": 1231943,
@@ -3832,14 +3776,6 @@
         "confidence": 8.33
     },
     {
-        "post_id": 4741,
-        "post_name": "SpongeBob SquarePants",
-        "votes": 3,
-        "vote_type": "INTJ",
-        "total_votes": 5,
-        "confidence": 60
-    },
-    {
         "post_id": 538909,
         "post_name": "Desperate Housewives",
         "votes": 3,
@@ -3848,20 +3784,68 @@
         "confidence": 42.86
     },
     {
-        "post_id": 151812,
-        "post_name": "Emraan Hashmi ",
-        "votes": 2,
+        "post_id": 1865,
+        "post_name": "Crazy Ex Girlfriend",
+        "votes": 3,
         "vote_type": "INTJ",
-        "total_votes": 2,
+        "total_votes": 12,
+        "confidence": 25
+    },
+    {
+        "post_id": 844500,
+        "post_name": "  Clairaut, Alexis",
+        "votes": 3,
+        "vote_type": "INTJ",
+        "total_votes": 3,
         "confidence": 100
     },
     {
-        "post_id": 945477,
-        "post_name": "Vladimir Putin",
+        "post_id": 967521,
+        "post_name": "Nayeli Lo Vera",
+        "votes": 3,
+        "vote_type": "INTJ",
+        "total_votes": 4,
+        "confidence": 75
+    },
+    {
+        "post_id": 927494,
+        "post_name": "Stephen Dawes",
+        "votes": 3,
+        "vote_type": "INTJ",
+        "total_votes": 6,
+        "confidence": 50
+    },
+    {
+        "post_id": 4741,
+        "post_name": "SpongeBob SquarePants",
+        "votes": 3,
+        "vote_type": "INTJ",
+        "total_votes": 5,
+        "confidence": 60
+    },
+    {
+        "post_id": 1009655,
+        "post_name": "Kevin Stratvert",
+        "votes": 2,
+        "vote_type": "INTJ",
+        "total_votes": 8,
+        "confidence": 25
+    },
+    {
+        "post_id": 204597,
+        "post_name": "Taim Hasan ",
         "votes": 2,
         "vote_type": "INTJ",
         "total_votes": 4,
         "confidence": 50
+    },
+    {
+        "post_id": 752435,
+        "post_name": "Fran\u00e7ois Bayrou",
+        "votes": 2,
+        "vote_type": "INTJ",
+        "total_votes": 3,
+        "confidence": 66.67
     },
     {
         "post_id": 204226,
@@ -3870,6 +3854,14 @@
         "vote_type": "INTJ",
         "total_votes": 5,
         "confidence": 40
+    },
+    {
+        "post_id": 137161,
+        "post_name": "Pop Singer    Lauv",
+        "votes": 2,
+        "vote_type": "INTJ",
+        "total_votes": 2,
+        "confidence": 100
     },
     {
         "post_id": 85014,
@@ -3896,32 +3888,8 @@
         "confidence": 50
     },
     {
-        "post_id": 752435,
-        "post_name": "Fran\u00e7ois Bayrou",
-        "votes": 2,
-        "vote_type": "INTJ",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 137161,
-        "post_name": "Pop Singer    Lauv",
-        "votes": 2,
-        "vote_type": "INTJ",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
         "post_id": 135130,
         "post_name": "Pop Singer    Poppy",
-        "votes": 2,
-        "vote_type": "INTJ",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 545670,
-        "post_name": "Major Payne",
         "votes": 2,
         "vote_type": "INTJ",
         "total_votes": 2,
@@ -3936,6 +3904,14 @@
         "confidence": 40
     },
     {
+        "post_id": 117043,
+        "post_name": "Pop Singer    Daniel Bedingfield",
+        "votes": 2,
+        "vote_type": "INTJ",
+        "total_votes": 7,
+        "confidence": 28.57
+    },
+    {
         "post_id": 122590,
         "post_name": "TV Actor    Malachi Barton",
         "votes": 2,
@@ -3944,36 +3920,36 @@
         "confidence": 20
     },
     {
-        "post_id": 115633,
-        "post_name": "Politician    Andreas Papandreou",
+        "post_id": 107172,
+        "post_name": "Ken Kutaragi",
         "votes": 2,
         "vote_type": "INTJ",
         "total_votes": 2,
         "confidence": 100
     },
     {
-        "post_id": 176752,
-        "post_name": "Sheila Dara Aisha ",
-        "votes": 2,
-        "vote_type": "INTJ",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 818361,
-        "post_name": "Law &#038; Order: UK",
+        "post_id": 151812,
+        "post_name": "Emraan Hashmi ",
         "votes": 2,
         "vote_type": "INTJ",
         "total_votes": 2,
         "confidence": 100
     },
     {
-        "post_id": 1009655,
-        "post_name": "Kevin Stratvert",
+        "post_id": 545670,
+        "post_name": "Major Payne",
         "votes": 2,
         "vote_type": "INTJ",
-        "total_votes": 8,
-        "confidence": 25
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 177060,
+        "post_name": "Sylvia Likens  ",
+        "votes": 2,
+        "vote_type": "INTJ",
+        "total_votes": 9,
+        "confidence": 22.22
     },
     {
         "post_id": 1096818,
@@ -4728,22 +4704,6 @@
         "confidence": 100
     },
     {
-        "post_id": 648628,
-        "post_name": "Tibo InShape",
-        "votes": 4,
-        "vote_type": "ISFP",
-        "total_votes": 7,
-        "confidence": 57.14
-    },
-    {
-        "post_id": 1231943,
-        "post_name": "???? ???????",
-        "votes": 4,
-        "vote_type": "ISFP",
-        "total_votes": 36,
-        "confidence": 11.11
-    },
-    {
         "post_id": 3619,
         "post_name": "Matt Heafy",
         "votes": 4,
@@ -4752,20 +4712,28 @@
         "confidence": 66.67
     },
     {
+        "post_id": 648628,
+        "post_name": "Tibo InShape",
+        "votes": 4,
+        "vote_type": "ISFP",
+        "total_votes": 7,
+        "confidence": 57.14
+    },
+    {
         "post_id": 55877,
         "post_name": "Jungkook",
         "votes": 4,
         "vote_type": "ISFP",
-        "total_votes": 4,
-        "confidence": 100
+        "total_votes": 5,
+        "confidence": 80
     },
     {
-        "post_id": 131755,
-        "post_name": "Metal Singer    Johnnie Guilbert",
-        "votes": 3,
+        "post_id": 1231943,
+        "post_name": "???? ???????",
+        "votes": 4,
         "vote_type": "ISFP",
-        "total_votes": 4,
-        "confidence": 75
+        "total_votes": 36,
+        "confidence": 11.11
     },
     {
         "post_id": 122590,
@@ -4784,14 +4752,6 @@
         "confidence": 100
     },
     {
-        "post_id": 905,
-        "post_name": "The Hunt",
-        "votes": 3,
-        "vote_type": "ISFP",
-        "total_votes": 3,
-        "confidence": 100
-    },
-    {
         "post_id": 75,
         "post_name": "Jill Scott",
         "votes": 3,
@@ -4800,12 +4760,44 @@
         "confidence": 33.33
     },
     {
-        "post_id": 560903,
-        "post_name": "The Powerpuff Girls",
+        "post_id": 131755,
+        "post_name": "Metal Singer    Johnnie Guilbert",
+        "votes": 3,
+        "vote_type": "ISFP",
+        "total_votes": 4,
+        "confidence": 75
+    },
+    {
+        "post_id": 905,
+        "post_name": "The Hunt",
+        "votes": 3,
+        "vote_type": "ISFP",
+        "total_votes": 3,
+        "confidence": 100
+    },
+    {
+        "post_id": 187932,
+        "post_name": "Brent Kutzle ",
         "votes": 2,
         "vote_type": "ISFP",
         "total_votes": 2,
         "confidence": 100
+    },
+    {
+        "post_id": 90187,
+        "post_name": "Arijit Singh",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 3,
+        "confidence": 66.67
+    },
+    {
+        "post_id": 252627,
+        "post_name": "Tristyn Lee",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 9,
+        "confidence": 22.22
     },
     {
         "post_id": 129172,
@@ -4824,8 +4816,16 @@
         "confidence": 100
     },
     {
-        "post_id": 82077,
-        "post_name": "Monica Bellucci",
+        "post_id": 250428,
+        "post_name": "Everlast",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 1028906,
+        "post_name": "Malysheva Anastasia",
         "votes": 2,
         "vote_type": "ISFP",
         "total_votes": 2,
@@ -4840,24 +4840,8 @@
         "confidence": 12.5
     },
     {
-        "post_id": 1028906,
-        "post_name": "Malysheva Anastasia",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 90187,
-        "post_name": "Arijit Singh",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 90694,
-        "post_name": "Chetan Bhagat",
+        "post_id": 560903,
+        "post_name": "The Powerpuff Girls",
         "votes": 2,
         "vote_type": "ISFP",
         "total_votes": 2,
@@ -4870,6 +4854,14 @@
         "vote_type": "ISFP",
         "total_votes": 9,
         "confidence": 22.22
+    },
+    {
+        "post_id": 90694,
+        "post_name": "Chetan Bhagat",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 2,
+        "confidence": 100
     },
     {
         "post_id": 95031,
@@ -4912,52 +4904,12 @@
         "confidence": 33.33
     },
     {
-        "post_id": 204333,
-        "post_name": "Majid Almohandis ",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 24,
-        "confidence": 8.33
-    },
-    {
-        "post_id": 204805,
-        "post_name": "Nichlmao ",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 6,
-        "confidence": 33.33
-    },
-    {
-        "post_id": 1109276,
-        "post_name": "Egor Shkred",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 1123505,
-        "post_name": "Alan Tudyk",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
         "post_id": 120,
         "post_name": "Michael Jackson",
         "votes": 2,
         "vote_type": "ISFP",
         "total_votes": 3,
         "confidence": 66.67
-    },
-    {
-        "post_id": 252627,
-        "post_name": "Tristyn Lee",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 9,
-        "confidence": 22.22
     },
     {
         "post_id": 781,
@@ -4968,12 +4920,28 @@
         "confidence": 66.67
     },
     {
-        "post_id": 250428,
-        "post_name": "Everlast",
+        "post_id": 82077,
+        "post_name": "Monica Bellucci",
         "votes": 2,
         "vote_type": "ISFP",
         "total_votes": 2,
         "confidence": 100
+    },
+    {
+        "post_id": 204805,
+        "post_name": "Nichlmao ",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 6,
+        "confidence": 33.33
+    },
+    {
+        "post_id": 204333,
+        "post_name": "Majid Almohandis ",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 24,
+        "confidence": 8.33
     },
     {
         "post_id": 55472,
@@ -4984,24 +4952,8 @@
         "confidence": 66.67
     },
     {
-        "post_id": 229890,
-        "post_name": "Emily Ha",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 5,
-        "confidence": 40
-    },
-    {
-        "post_id": 204567,
-        "post_name": "Sherin's Beauty ",
-        "votes": 2,
-        "vote_type": "ISFP",
-        "total_votes": 9,
-        "confidence": 22.22
-    },
-    {
-        "post_id": 187932,
-        "post_name": "Brent Kutzle ",
+        "post_id": 1109276,
+        "post_name": "Egor Shkred",
         "votes": 2,
         "vote_type": "ISFP",
         "total_votes": 2,
@@ -5016,6 +4968,14 @@
         "confidence": 50
     },
     {
+        "post_id": 204567,
+        "post_name": "Sherin's Beauty ",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 9,
+        "confidence": 22.22
+    },
+    {
         "post_id": 13162,
         "post_name": "Charlotte Roberts",
         "votes": 2,
@@ -5024,8 +4984,24 @@
         "confidence": 33.33
     },
     {
-        "post_id": 676599,
-        "post_name": "Madagascar",
+        "post_id": 229890,
+        "post_name": "Emily Ha",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 5,
+        "confidence": 40
+    },
+    {
+        "post_id": 1123505,
+        "post_name": "Alan Tudyk",
+        "votes": 2,
+        "vote_type": "ISFP",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 816591,
+        "post_name": "Tatyana Chumakova",
         "votes": 1,
         "vote_type": "ISFP",
         "total_votes": 1,
@@ -5040,28 +5016,20 @@
         "confidence": 100
     },
     {
-        "post_id": 557287,
-        "post_name": "Jo Lindner",
+        "post_id": 790353,
+        "post_name": "Yasmina Khadra",
         "votes": 1,
         "vote_type": "ISFP",
         "total_votes": 1,
         "confidence": 100
     },
     {
-        "post_id": 921630,
-        "post_name": "Sherin's Beauty",
+        "post_id": 548785,
+        "post_name": "Clair Kendra Kramer",
         "votes": 1,
         "vote_type": "ISFP",
-        "total_votes": 3,
-        "confidence": 33.33
-    },
-    {
-        "post_id": 543552,
-        "post_name": "Ami Suzuki",
-        "votes": 1,
-        "vote_type": "ISFP",
-        "total_votes": 1,
-        "confidence": 100
+        "total_votes": 11,
+        "confidence": 9.09
     },
     {
         "post_id": 842724,
@@ -5072,8 +5040,32 @@
         "confidence": 6.25
     },
     {
+        "post_id": 832979,
+        "post_name": "Lower Largo   Alexander Selkirk",
+        "votes": 1,
+        "vote_type": "ISFP",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 835929,
+        "post_name": "Paris   Louis XIII of France",
+        "votes": 1,
+        "vote_type": "ISFP",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
         "post_id": 840319,
         "post_name": "Moscow   Sergey Lavrov",
+        "votes": 1,
+        "vote_type": "ISFP",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 547214,
+        "post_name": "Bridgette Feuerstein",
         "votes": 1,
         "vote_type": "ISFP",
         "total_votes": 1,
@@ -5208,14 +5200,6 @@
         "confidence": 16.67
     },
     {
-        "post_id": 222123,
-        "post_name": "Choi Siwon ",
-        "votes": 2,
-        "vote_type": "ISTJ",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
         "post_id": 73300,
         "post_name": "Carlos Sainz Jr.",
         "votes": 2,
@@ -5224,36 +5208,36 @@
         "confidence": 100
     },
     {
-        "post_id": 549611,
-        "post_name": "Toby Fox",
-        "votes": 1,
+        "post_id": 222123,
+        "post_name": "Choi Siwon ",
+        "votes": 2,
         "vote_type": "ISTJ",
         "total_votes": 3,
-        "confidence": 33.33
+        "confidence": 66.67
     },
     {
-        "post_id": 254280,
-        "post_name": "Sima Hesri",
+        "post_id": 548785,
+        "post_name": "Clair Kendra Kramer",
         "votes": 1,
         "vote_type": "ISTJ",
-        "total_votes": 6,
-        "confidence": 16.67
+        "total_votes": 11,
+        "confidence": 9.09
     },
     {
-        "post_id": 807852,
-        "post_name": "Shanti Dope",
+        "post_id": 656290,
+        "post_name": "Mark Hoffman",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
         "confidence": 100
     },
     {
-        "post_id": 538335,
-        "post_name": "Ravi Dubey",
+        "post_id": 535338,
+        "post_name": "Karl Jacobs",
         "votes": 1,
         "vote_type": "ISTJ",
-        "total_votes": 2,
-        "confidence": 50
+        "total_votes": 1,
+        "confidence": 100
     },
     {
         "post_id": 807504,
@@ -5272,12 +5256,12 @@
         "confidence": 100
     },
     {
-        "post_id": 538696,
-        "post_name": "Se\u00f1ora Acero",
+        "post_id": 538335,
+        "post_name": "Ravi Dubey",
         "votes": 1,
         "vote_type": "ISTJ",
-        "total_votes": 1,
-        "confidence": 100
+        "total_votes": 2,
+        "confidence": 50
     },
     {
         "post_id": 741948,
@@ -5288,24 +5272,16 @@
         "confidence": 50
     },
     {
-        "post_id": 540059,
-        "post_name": "Torrey DeVitto",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 2,
-        "confidence": 50
-    },
-    {
-        "post_id": 542876,
-        "post_name": "Meghan Camarena",
+        "post_id": 254189,
+        "post_name": "Mile 22",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
         "confidence": 100
     },
     {
-        "post_id": 656290,
-        "post_name": "Mark Hoffman",
+        "post_id": 538696,
+        "post_name": "Se\u00f1ora Acero",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
@@ -5320,20 +5296,20 @@
         "confidence": 100
     },
     {
-        "post_id": 543138,
-        "post_name": "Rod Wave",
+        "post_id": 540059,
+        "post_name": "Torrey DeVitto",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 2,
+        "confidence": 50
+    },
+    {
+        "post_id": 807852,
+        "post_name": "Shanti Dope",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
         "confidence": 100
-    },
-    {
-        "post_id": 548785,
-        "post_name": "Clair Kendra Kramer",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 11,
-        "confidence": 9.09
     },
     {
         "post_id": 650865,
@@ -5344,8 +5320,16 @@
         "confidence": 50
     },
     {
-        "post_id": 535338,
-        "post_name": "Karl Jacobs",
+        "post_id": 542876,
+        "post_name": "Meghan Camarena",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 543138,
+        "post_name": "Rod Wave",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
@@ -5360,6 +5344,22 @@
         "confidence": 50
     },
     {
+        "post_id": 254280,
+        "post_name": "Sima Hesri",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 6,
+        "confidence": 16.67
+    },
+    {
+        "post_id": 549611,
+        "post_name": "Toby Fox",
+        "votes": 1,
+        "vote_type": "ISTJ",
+        "total_votes": 3,
+        "confidence": 33.33
+    },
+    {
         "post_id": 254342,
         "post_name": "Salish Matter",
         "votes": 1,
@@ -5368,28 +5368,20 @@
         "confidence": 2.38
     },
     {
-        "post_id": 990780,
-        "post_name": "Robert De Niro",
+        "post_id": 988337,
+        "post_name": "Ricardino Alvarez",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
         "confidence": 100
     },
     {
-        "post_id": 931841,
-        "post_name": "Taraneh Alidoosti",
+        "post_id": 1093353,
+        "post_name": "Cristiano Ronaldo Jr. (Family Member)",
         "votes": 1,
         "vote_type": "ISTJ",
         "total_votes": 1,
         "confidence": 100
-    },
-    {
-        "post_id": 1094061,
-        "post_name": "Cyprien",
-        "votes": 1,
-        "vote_type": "ISTJ",
-        "total_votes": 4,
-        "confidence": 25
     },
     {
         "post_id": 1232873,
@@ -5504,20 +5496,20 @@
         "confidence": 13.64
     },
     {
-        "post_id": 555560,
-        "post_name": "Austin Lawrence",
-        "votes": 3,
-        "vote_type": "ISTP",
-        "total_votes": 5,
-        "confidence": 60
-    },
-    {
         "post_id": 144250,
         "post_name": "Model    Francisco Lachowski",
         "votes": 3,
         "vote_type": "ISTP",
         "total_votes": 3,
         "confidence": 100
+    },
+    {
+        "post_id": 555560,
+        "post_name": "Austin Lawrence",
+        "votes": 3,
+        "vote_type": "ISTP",
+        "total_votes": 5,
+        "confidence": 60
     },
     {
         "post_id": 55620,
@@ -5632,36 +5624,12 @@
         "confidence": 100
     },
     {
-        "post_id": 73,
-        "post_name": "Kung Fu Panda",
+        "post_id": 254342,
+        "post_name": "Salish Matter",
         "votes": 2,
         "vote_type": "ISTP",
-        "total_votes": 22,
-        "confidence": 9.09
-    },
-    {
-        "post_id": 231887,
-        "post_name": "Jackson Passaglia",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 5296,
-        "post_name": "Duke Dennis",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 7,
-        "confidence": 28.57
-    },
-    {
-        "post_id": 209693,
-        "post_name": "Xavi Simons ",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 8,
-        "confidence": 25
+        "total_votes": 42,
+        "confidence": 4.76
     },
     {
         "post_id": 6336,
@@ -5672,52 +5640,12 @@
         "confidence": 66.67
     },
     {
-        "post_id": 7262,
-        "post_name": "Preston Oliver",
+        "post_id": 73,
+        "post_name": "Kung Fu Panda",
         "votes": 2,
         "vote_type": "ISTP",
-        "total_votes": 16,
-        "confidence": 12.5
-    },
-    {
-        "post_id": 1140258,
-        "post_name": "Aurateur",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 254342,
-        "post_name": "Salish Matter",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 42,
-        "confidence": 4.76
-    },
-    {
-        "post_id": 1908,
-        "post_name": "The Kitchen",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 3,
-        "confidence": 66.67
-    },
-    {
-        "post_id": 204299,
-        "post_name": "Raghad Hussein ",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
-        "post_id": 3506840,
-        "post_name": "Naomy Romo",
-        "votes": 2,
-        "vote_type": "ISTP",
-        "total_votes": 4,
-        "confidence": 50
+        "total_votes": 22,
+        "confidence": 9.09
     },
     {
         "post_id": 254898,
@@ -5728,24 +5656,80 @@
         "confidence": 66.67
     },
     {
-        "post_id": 822303,
-        "post_name": "Bode Miller",
+        "post_id": 5296,
+        "post_name": "Duke Dennis",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 7,
+        "confidence": 28.57
+    },
+    {
+        "post_id": 3506840,
+        "post_name": "Naomy Romo",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 4,
+        "confidence": 50
+    },
+    {
+        "post_id": 204299,
+        "post_name": "Raghad Hussein ",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 1908,
+        "post_name": "The Kitchen",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 3,
+        "confidence": 66.67
+    },
+    {
+        "post_id": 1140258,
+        "post_name": "Aurateur",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 231887,
+        "post_name": "Jackson Passaglia",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 209693,
+        "post_name": "Xavi Simons ",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 8,
+        "confidence": 25
+    },
+    {
+        "post_id": 7262,
+        "post_name": "Preston Oliver",
+        "votes": 2,
+        "vote_type": "ISTP",
+        "total_votes": 16,
+        "confidence": 12.5
+    },
+    {
+        "post_id": 676620,
+        "post_name": "Alvin and the Chipmunks: The Road Chip",
         "votes": 1,
         "vote_type": "ISTP",
-        "total_votes": 1,
-        "confidence": 100
+        "total_votes": 9,
+        "confidence": 11.11
     },
     {
         "post_id": 550276,
         "post_name": "The Rookie",
-        "votes": 1,
-        "vote_type": "ISTP",
-        "total_votes": 1,
-        "confidence": 100
-    },
-    {
-        "post_id": 831196,
-        "post_name": "Kindergarten Cop 2",
         "votes": 1,
         "vote_type": "ISTP",
         "total_votes": 1,
@@ -5760,24 +5744,24 @@
         "confidence": 50
     },
     {
-        "post_id": 648628,
-        "post_name": "Tibo InShape",
+        "post_id": 822303,
+        "post_name": "Bode Miller",
         "votes": 1,
         "vote_type": "ISTP",
-        "total_votes": 7,
-        "confidence": 14.29
+        "total_votes": 1,
+        "confidence": 100
     },
     {
-        "post_id": 694482,
-        "post_name": "Greg Howe",
+        "post_id": 544842,
+        "post_name": "Tierra de Reyes",
         "votes": 1,
         "vote_type": "ISTP",
-        "total_votes": 2,
-        "confidence": 50
+        "total_votes": 11,
+        "confidence": 9.09
     },
     {
-        "post_id": 806992,
-        "post_name": "Andrew McCarthy",
+        "post_id": 831196,
+        "post_name": "Kindergarten Cop 2",
         "votes": 1,
         "vote_type": "ISTP",
         "total_votes": 1,
@@ -5792,16 +5776,24 @@
         "confidence": 100
     },
     {
-        "post_id": 649207,
-        "post_name": "Rafael Aghayev",
+        "post_id": 648628,
+        "post_name": "Tibo InShape",
         "votes": 1,
         "vote_type": "ISTP",
-        "total_votes": 2,
-        "confidence": 50
+        "total_votes": 7,
+        "confidence": 14.29
     },
     {
-        "post_id": 742133,
-        "post_name": "Kristel Fulgar",
+        "post_id": 806992,
+        "post_name": "Andrew McCarthy",
+        "votes": 1,
+        "vote_type": "ISTP",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 694482,
+        "post_name": "Greg Howe",
         "votes": 1,
         "vote_type": "ISTP",
         "total_votes": 2,
@@ -5936,20 +5928,20 @@
         "confidence": 66.67
     },
     {
-        "post_id": 1005544,
-        "post_name": "Katharine Hepburn",
-        "votes": 2,
-        "vote_type": "1w2",
-        "total_votes": 4,
-        "confidence": 50
-    },
-    {
         "post_id": 1104893,
         "post_name": "Dmitry Koldun",
         "votes": 2,
         "vote_type": "1w2",
         "total_votes": 2,
         "confidence": 100
+    },
+    {
+        "post_id": 1005544,
+        "post_name": "Katharine Hepburn",
+        "votes": 2,
+        "vote_type": "1w2",
+        "total_votes": 4,
+        "confidence": 50
     },
     {
         "post_id": 1109872,
@@ -5992,14 +5984,6 @@
         "confidence": 66.67
     },
     {
-        "post_id": 945909,
-        "post_name": "Wally Amos",
-        "votes": 2,
-        "vote_type": "1w2",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
         "post_id": 4788,
         "post_name": "Valerian and the City of a Thousand Planets",
         "votes": 2,
@@ -6008,8 +5992,24 @@
         "confidence": 100
     },
     {
+        "post_id": 945909,
+        "post_name": "Wally Amos",
+        "votes": 2,
+        "vote_type": "1w2",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
         "post_id": 6190,
         "post_name": "Cherry Crush",
+        "votes": 2,
+        "vote_type": "1w2",
+        "total_votes": 2,
+        "confidence": 100
+    },
+    {
+        "post_id": 541038,
+        "post_name": "Winx Club",
         "votes": 2,
         "vote_type": "1w2",
         "total_votes": 2,
@@ -6032,28 +6032,12 @@
         "confidence": 100
     },
     {
-        "post_id": 541038,
-        "post_name": "Winx Club",
-        "votes": 2,
-        "vote_type": "1w2",
-        "total_votes": 2,
-        "confidence": 100
-    },
-    {
         "post_id": 984799,
         "post_name": "Rainimator",
         "votes": 1,
         "vote_type": "1w2",
         "total_votes": 1,
         "confidence": 100
-    },
-    {
-        "post_id": 967702,
-        "post_name": "Ned Luke",
-        "votes": 1,
-        "vote_type": "1w2",
-        "total_votes": 23,
-        "confidence": 4.35
     },
     {
         "post_id": 983905,
@@ -6064,8 +6048,32 @@
         "confidence": 10
     },
     {
+        "post_id": 977436,
+        "post_name": "Patrick Doyle",
+        "votes": 1,
+        "vote_type": "1w2",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
         "post_id": 987677,
         "post_name": "Renato Cariani",
+        "votes": 1,
+        "vote_type": "1w2",
+        "total_votes": 2,
+        "confidence": 50
+    },
+    {
+        "post_id": 967702,
+        "post_name": "Ned Luke",
+        "votes": 1,
+        "vote_type": "1w2",
+        "total_votes": 23,
+        "confidence": 4.35
+    },
+    {
+        "post_id": 945477,
+        "post_name": "Vladimir Putin",
         "votes": 1,
         "vote_type": "1w2",
         "total_votes": 2,
@@ -6080,14 +6088,6 @@
         "confidence": 100
     },
     {
-        "post_id": 945477,
-        "post_name": "Vladimir Putin",
-        "votes": 1,
-        "vote_type": "1w2",
-        "total_votes": 2,
-        "confidence": 50
-    },
-    {
         "post_id": 927494,
         "post_name": "Stephen Dawes",
         "votes": 1,
@@ -6096,8 +6096,8 @@
         "confidence": 100
     },
     {
-        "post_id": 977436,
-        "post_name": "Patrick Doyle",
+        "post_id": 918370,
+        "post_name": "Sean Kaufman",
         "votes": 1,
         "vote_type": "1w2",
         "total_votes": 1,
@@ -6138,14 +6138,6 @@
     {
         "post_id": 2385439,
         "post_name": "the protagonist slay the princess",
-        "votes": 1,
-        "vote_type": "1w2",
-        "total_votes": 2,
-        "confidence": 50
-    },
-    {
-        "post_id": 1234061,
-        "post_name": "power warriors 18.1 todos las perso",
         "votes": 1,
         "vote_type": "1w2",
         "total_votes": 2,
@@ -6768,20 +6760,20 @@
         "confidence": 7.69
     },
     {
+        "post_id": 535779,
+        "post_name": "King Kenny",
+        "votes": 1,
+        "vote_type": "3w2",
+        "total_votes": 5,
+        "confidence": 20
+    },
+    {
         "post_id": 249,
         "post_name": "Vladimir Putin",
         "votes": 1,
         "vote_type": "3w2",
         "total_votes": 4,
         "confidence": 25
-    },
-    {
-        "post_id": 252816,
-        "post_name": "Jumanji: The Next Level",
-        "votes": 1,
-        "vote_type": "3w2",
-        "total_votes": 2,
-        "confidence": 50
     },
     {
         "post_id": 230892,
@@ -6848,12 +6840,20 @@
         "confidence": 100
     },
     {
-        "post_id": 535779,
-        "post_name": "King Kenny",
+        "post_id": 55877,
+        "post_name": "Jungkook",
         "votes": 1,
         "vote_type": "3w2",
-        "total_votes": 5,
-        "confidence": 20
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
+        "post_id": 252816,
+        "post_name": "Jumanji: The Next Level",
+        "votes": 1,
+        "vote_type": "3w2",
+        "total_votes": 2,
+        "confidence": 50
     },
     {
         "post_id": 1,
@@ -8680,8 +8680,8 @@
         "confidence": 100
     },
     {
-        "post_id": 208223,
-        "post_name": "Jade Goody ",
+        "post_id": 208873,
+        "post_name": "Jan Hooks ",
         "votes": 1,
         "vote_type": "7w6",
         "total_votes": 1,
@@ -8744,6 +8744,14 @@
         "confidence": 100
     },
     {
+        "post_id": 544842,
+        "post_name": "Tierra de Reyes",
+        "votes": 1,
+        "vote_type": "7w6",
+        "total_votes": 1,
+        "confidence": 100
+    },
+    {
         "post_id": 222351,
         "post_name": "claudia uhle",
         "votes": 1,
@@ -8752,20 +8760,12 @@
         "confidence": 100
     },
     {
-        "post_id": 208873,
-        "post_name": "Jan Hooks ",
+        "post_id": 208223,
+        "post_name": "Jade Goody ",
         "votes": 1,
         "vote_type": "7w6",
         "total_votes": 1,
         "confidence": 100
-    },
-    {
-        "post_id": 193200,
-        "post_name": "Cindy Paola ",
-        "votes": 1,
-        "vote_type": "7w6",
-        "total_votes": 296,
-        "confidence": 0.34
     },
     {
         "post_id": 10001,
@@ -8774,6 +8774,14 @@
         "vote_type": "7w6",
         "total_votes": 2,
         "confidence": 50
+    },
+    {
+        "post_id": 193200,
+        "post_name": "Cindy Paola ",
+        "votes": 1,
+        "vote_type": "7w6",
+        "total_votes": 296,
+        "confidence": 0.34
     },
     {
         "post_id": 179050,
@@ -9526,6 +9534,14 @@
         "vote_type": "9w8",
         "total_votes": 4,
         "confidence": 25
+    },
+    {
+        "post_id": 3543,
+        "post_name": "Howard Donald",
+        "votes": 1,
+        "vote_type": "9w8",
+        "total_votes": 1,
+        "confidence": 100
     },
     {
         "post_id": 1908,
