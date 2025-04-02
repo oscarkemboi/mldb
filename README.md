@@ -1,4 +1,4 @@
 # mldb
 ML repo
-Filtered results from ML Engine.
-Available to be copied.
+Filterade resultatet från ML Engine.
+Finns inte att kopiera.
