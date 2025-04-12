@@ -1112,20 +1112,20 @@
         "confidence": 63.64
     },
     {
-        "post_id": 208679,
-        "post_name": "Jenna Lynn Meowri ",
-        "votes": 7,
-        "vote_type": "ENTP",
-        "total_votes": 7,
-        "confidence": 100
-    },
-    {
         "post_id": 170982,
         "post_name": "Sasha Sobhani ",
         "votes": 7,
         "vote_type": "ENTP",
         "total_votes": 10,
         "confidence": 70
+    },
+    {
+        "post_id": 208679,
+        "post_name": "Jenna Lynn Meowri ",
+        "votes": 7,
+        "vote_type": "ENTP",
+        "total_votes": 7,
+        "confidence": 100
     },
     {
         "post_id": 153785,
@@ -1142,14 +1142,6 @@
         "vote_type": "ENTP",
         "total_votes": 36,
         "confidence": 13.89
-    },
-    {
-        "post_id": 695247,
-        "post_name": "Cedric Annicette",
-        "votes": 4,
-        "vote_type": "ENTP",
-        "total_votes": 5,
-        "confidence": 80
     },
     {
         "post_id": 250515,
@@ -1176,12 +1168,20 @@
         "confidence": 80
     },
     {
-        "post_id": 1229117,
-        "post_name": "Molly Owens",
+        "post_id": 695247,
+        "post_name": "Cedric Annicette",
         "votes": 4,
         "vote_type": "ENTP",
-        "total_votes": 4,
-        "confidence": 100
+        "total_votes": 5,
+        "confidence": 80
+    },
+    {
+        "post_id": 949551,
+        "post_name": "Yan Reyzen",
+        "votes": 4,
+        "vote_type": "ENTP",
+        "total_votes": 7,
+        "confidence": 57.14
     },
     {
         "post_id": 550363,
@@ -1192,12 +1192,12 @@
         "confidence": 18.18
     },
     {
-        "post_id": 949551,
-        "post_name": "Yan Reyzen",
+        "post_id": 1229117,
+        "post_name": "Molly Owens",
         "votes": 4,
         "vote_type": "ENTP",
-        "total_votes": 7,
-        "confidence": 57.14
+        "total_votes": 4,
+        "confidence": 100
     },
     {
         "post_id": 204567,
@@ -1280,12 +1280,12 @@
         "confidence": 75
     },
     {
-        "post_id": 90310,
-        "post_name": "Hardik Pandya",
+        "post_id": 932939,
+        "post_name": "Ted Freeman",
         "votes": 2,
         "vote_type": "ENTP",
-        "total_votes": 4,
-        "confidence": 50
+        "total_votes": 2,
+        "confidence": 100
     },
     {
         "post_id": 119211,
@@ -1294,14 +1294,6 @@
         "vote_type": "ENTP",
         "total_votes": 7,
         "confidence": 28.57
-    },
-    {
-        "post_id": 932939,
-        "post_name": "Ted Freeman",
-        "votes": 2,
-        "vote_type": "ENTP",
-        "total_votes": 2,
-        "confidence": 100
     },
     {
         "post_id": 970701,
@@ -1318,6 +1310,14 @@
         "vote_type": "ENTP",
         "total_votes": 2,
         "confidence": 100
+    },
+    {
+        "post_id": 90310,
+        "post_name": "Hardik Pandya",
+        "votes": 2,
+        "vote_type": "ENTP",
+        "total_votes": 4,
+        "confidence": 50
     },
     {
         "post_id": 100321,
