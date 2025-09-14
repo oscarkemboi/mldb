@@ -1,40 +1,172 @@
-{
-  "mbti": {
-    "ENFJ": 352401,
-    "ENFP": 352683,
-    "ENTJ": 352716,
-    "ENTP": 352408,
-    "ESFJ": 353028,
-    "ESFP": 351518,
-    "ESTJ": 353163,
-    "ESTP": 352283,
-    "INFJ": 352024,
-    "INFP": 353166,
-    "INTJ": 352788,
-    "INTP": 352852,
-    "ISFJ": 351901,
-    "ISFP": 351800,
-    "ISTJ": 352219,
-    "ISTP": 351966
+[
+  {
+    "key": "mbti",
+    "type": "ENFJ",
+    "count": 352401
   },
-  "enneagram": {
-    "1w2": 327,
-    "1w9": 55,
-    "2w1": 48,
-    "2w3": 343,
-    "3w2": 45,
-    "3w4": 64,
-    "4w3": 98,
-    "4w5": 111,
-    "5w4": 96,
-    "5w6": 71,
-    "6w5": 56,
-    "6w7": 78,
-    "7w6": 101,
-    "7w8": 86,
-    "8w7": 68,
-    "8w9": 29,
-    "9w8": 37,
-    "9w1": 85
+  {
+    "key": "mbti",
+    "type": "ENFP",
+    "count": 352683
+  },
+  {
+    "key": "mbti",
+    "type": "ENTJ",
+    "count": 352717
+  },
+  {
+    "key": "mbti",
+    "type": "ENTP",
+    "count": 352407
+  },
+  {
+    "key": "mbti",
+    "type": "ESFJ",
+    "count": 353028
+  },
+  {
+    "key": "mbti",
+    "type": "ESFP",
+    "count": 351518
+  },
+  {
+    "key": "mbti",
+    "type": "ESTJ",
+    "count": 353165
+  },
+  {
+    "key": "mbti",
+    "type": "ESTP",
+    "count": 352284
+  },
+  {
+    "key": "mbti",
+    "type": "INFJ",
+    "count": 352025
+  },
+  {
+    "key": "mbti",
+    "type": "INFP",
+    "count": 353167
+  },
+  {
+    "key": "mbti",
+    "type": "INTJ",
+    "count": 352789
+  },
+  {
+    "key": "mbti",
+    "type": "INTP",
+    "count": 352852
+  },
+  {
+    "key": "mbti",
+    "type": "ISFJ",
+    "count": 351902
+  },
+  {
+    "key": "mbti",
+    "type": "ISFP",
+    "count": 351803
+  },
+  {
+    "key": "mbti",
+    "type": "ISTJ",
+    "count": 352219
+  },
+  {
+    "key": "mbti",
+    "type": "ISTP",
+    "count": 351966
+  },
+  {
+    "key": "enneagram",
+    "type": "1w2",
+    "count": 327
+  },
+  {
+    "key": "enneagram",
+    "type": "1w9",
+    "count": 56
+  },
+  {
+    "key": "enneagram",
+    "type": "2w1",
+    "count": 48
+  },
+  {
+    "key": "enneagram",
+    "type": "2w3",
+    "count": 343
+  },
+  {
+    "key": "enneagram",
+    "type": "3w2",
+    "count": 45
+  },
+  {
+    "key": "enneagram",
+    "type": "3w4",
+    "count": 64
+  },
+  {
+    "key": "enneagram",
+    "type": "4w3",
+    "count": 99
+  },
+  {
+    "key": "enneagram",
+    "type": "4w5",
+    "count": 113
+  },
+  {
+    "key": "enneagram",
+    "type": "5w4",
+    "count": 96
+  },
+  {
+    "key": "enneagram",
+    "type": "5w6",
+    "count": 71
+  },
+  {
+    "key": "enneagram",
+    "type": "6w5",
+    "count": 56
+  },
+  {
+    "key": "enneagram",
+    "type": "6w7",
+    "count": 78
+  },
+  {
+    "key": "enneagram",
+    "type": "7w6",
+    "count": 102
+  },
+  {
+    "key": "enneagram",
+    "type": "7w8",
+    "count": 86
+  },
+  {
+    "key": "enneagram",
+    "type": "8w7",
+    "count": 68
+  },
+  {
+    "key": "enneagram",
+    "type": "8w9",
+    "count": 29
+  },
+  {
+    "key": "enneagram",
+    "type": "9w8",
+    "count": 37
+  },
+  {
+    "key": "enneagram",
+    "type": "9w1",
+    "count": 85
   }
-}
+]
